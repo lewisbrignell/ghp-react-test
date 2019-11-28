@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ghp-react-test/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ghp-react-test/static/js/main.338a7b4c.chunk.js",
+    "main.js.map": "/ghp-react-test/static/js/main.338a7b4c.chunk.js.map",
+    "runtime-main.js": "/ghp-react-test/static/js/runtime-main.90b6939a.js",
+    "runtime-main.js.map": "/ghp-react-test/static/js/runtime-main.90b6939a.js.map",
+    "static/js/2.a27cac1e.chunk.js": "/ghp-react-test/static/js/2.a27cac1e.chunk.js",
+    "static/js/2.a27cac1e.chunk.js.map": "/ghp-react-test/static/js/2.a27cac1e.chunk.js.map",
+    "index.html": "/ghp-react-test/index.html",
+    "precache-manifest.741d2e8462b2b8ba098d976d8cd090d8.js": "/ghp-react-test/precache-manifest.741d2e8462b2b8ba098d976d8cd090d8.js",
+    "service-worker.js": "/ghp-react-test/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ghp-react-test/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ghp-react-test/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b6939a.js",
+    "static/js/2.a27cac1e.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.338a7b4c.chunk.js"
+  ]
+}
